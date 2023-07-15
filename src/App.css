@@ -1,0 +1,67 @@
+body{
+  background-color: rgb(194, 208, 231);
+  color: black;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-end;
+}
+.connectmeta{
+  color: white;
+  background-color: rgb(236, 87, 122);
+  cursor: pointer;
+  margin-top: 10px;
+  height: 25px;
+  margin-right: 10px;
+  width:160px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.title{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
+
+.showtasks{
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 20px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: black;
+
+  }
+  .toggle-button {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.table {
+  display:flex;
+  justify-content: center;
+  border-collapse: separate;
+  border-spacing: 10px;
+}
+
+
+.table td {
+  padding: 12px;
+  border-bottom: 1px solid black;
+}
+
+.task-name {
+  word-break: break-word;
+  max-width: 450px; 
+}
+
