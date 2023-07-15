@@ -1,9 +1,9 @@
 # Simple ToDo DApp on Mumbai blockchain
 
-Can Add task.
-Can Edit task.
-Can Delete task.
-Can Set priority to the task.
+* Can Add task.
+* Can Edit task.
+* Can Delete task.
+* Can Set priority to the task.
 
 ## To RUN
 
