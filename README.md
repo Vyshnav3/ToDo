@@ -14,8 +14,8 @@
 
 
 
-### Technology Used
-React - frontend
-Solidity - Backend
+## Technologies Used
+- React - frontend
+- Solidity - Backend
 Ethers.js - Integration
 AlchemyAPI - For deplyoing
